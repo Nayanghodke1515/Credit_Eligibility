@@ -1,4 +1,4 @@
-# credit_eligibility_application
+# credit_eligibility
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
 
